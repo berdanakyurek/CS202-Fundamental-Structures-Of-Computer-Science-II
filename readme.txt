@@ -1,0 +1,1 @@
+compiling with g++ -std=c++11 *.cpp command runs as expected in Dijkstra.
